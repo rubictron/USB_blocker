@@ -1,0 +1,18 @@
+H:\Project\C#\USB Control\USB Control\bin\Debug\USB Control.exe.config
+H:\Project\C#\USB Control\USB Control\bin\Debug\USB Control.exe
+H:\Project\C#\USB Control\USB Control\bin\Debug\USB Control.pdb
+H:\Project\C#\USB Control\USB Control\obj\Debug\USB Control.csprojResolveAssemblyReference.cache
+H:\Project\C#\USB Control\USB Control\obj\Debug\USB_Control.USBblock.resources
+H:\Project\C#\USB Control\USB Control\obj\Debug\USB_Control.Properties.Resources.resources
+H:\Project\C#\USB Control\USB Control\obj\Debug\USB Control.csproj.GenerateResource.Cache
+H:\Project\C#\USB Control\USB Control\obj\Debug\USB Control.exe
+H:\Project\C#\USB Control\USB Control\obj\Debug\USB Control.pdb
+G:\Project\C#\USB Control\USB Control\bin\Debug\USB Control.exe.config
+G:\Project\C#\USB Control\USB Control\obj\Debug\USB Control.exe
+G:\Project\C#\USB Control\USB Control\obj\Debug\USB Control.pdb
+G:\Project\C#\USB Control\USB Control\bin\Debug\USB Control.exe
+G:\Project\C#\USB Control\USB Control\bin\Debug\USB Control.pdb
+G:\Project\C#\USB Control\USB Control\obj\Debug\USB Control.csprojResolveAssemblyReference.cache
+G:\Project\C#\USB Control\USB Control\obj\Debug\USB_Control.USBblock.resources
+G:\Project\C#\USB Control\USB Control\obj\Debug\USB_Control.Properties.Resources.resources
+G:\Project\C#\USB Control\USB Control\obj\Debug\USB Control.csproj.GenerateResource.Cache
